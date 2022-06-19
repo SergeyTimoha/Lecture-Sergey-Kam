@@ -1,4 +1,4 @@
-Cosole.Clear();
+Console.Clear();
 Console.Write("Введите имя пользователя: ");
 string uzername = Console.ReadLine();
 
